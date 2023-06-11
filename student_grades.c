@@ -1,3 +1,5 @@
+//C program to find student's grade.
+
 #include <stdio.h>
 
 int grade(int num);
