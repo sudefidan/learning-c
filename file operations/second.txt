@@ -1,0 +1,4 @@
+ 
+ATTENTION READER! THIS CODE IS FOR FILE HANDLING IN C. HAVE FUN!  
+
+The file second.txt has 71 characters.
